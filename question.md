@@ -1,5 +1,5 @@
 ---
-title: qu
+plugin: quick-latex
 ---
 
 ## 4월 21일
