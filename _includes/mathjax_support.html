@@ -9,8 +9,15 @@ MathJax.Hub.Config({
     inlineMath: [ ['$', '$'] ],
     displayMath: [ ['$$', '$$'] ],
     processEscapes: true,
-  }
-
+  },
+mjx-container {
+    overflow-x: auto; /* 스크롤만을 구현하려 할 때, "auto" 대신 "scroll"을 써도 된다. */
+    overflow-y: hidden;
+    max-width: 100%;
+    },
+  "HTML-CSS": { linebreaks: { automatic: true } },
+  CommonHTML: { linebreaks: { automatic: true } },
+  SVG: { linebreaks: { automatic: true } }
 });
 MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
 	  alert("Math Processing Error: "+message[1]);
