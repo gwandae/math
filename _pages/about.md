@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*2023년 4월 28일 제작*
 
-Feel free to tell the world about what you love! 😍
+by Han Hee Lee ![[pngegg.png]]
