@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Welcome! 🌱
-[[4차고사]] [[수업 중 질문 답변]] [[2022 중앙 고1 4차고사.pdf]]
+[[4차고사]][[수업 중 질문 답변]]
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
