@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1/","tags":["gardenEntry"]}
+title: qu
 ---
 
 ## 4월 21일
