@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1/","tags":["gardenEntry"]}
 ---
 
 ## 4월 21일
