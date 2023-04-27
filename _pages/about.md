@@ -6,4 +6,4 @@ permalink: /about
 
 *2023년 4월 28일 제작*
 
-by Han Hee Lee <img src="/assets/pngegg.png"/>
+by Han Hee Lee <img width="400px", src="/assets/pngegg.png"/>
