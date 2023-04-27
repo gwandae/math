@@ -1,5 +1,6 @@
 ---
 title:qu
+permalink:/q/
 ---
 
 ## 4월 21일
