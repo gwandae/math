@@ -4,16 +4,15 @@ title: Home
 id: home
 permalink: /
 ---
-
-# 수업 내용 정리
-시험문제 다시보기
+## 시험 문제 다시보기
 <table border="1">
 <th>문제</th> <th>풀이</th> 
   <tr>
-    <td class="tg-0lax"><a href="/pdf/2023 청수 고2 1차고사.pdf">2023 청수 고2 1차고사</a></td>
-    <td class="tg-0lax"><a href="/pdf/%5B풀이%5D 2023 청수 고2 1차고사.pdf">[풀이] 2023 청수 고2 1차고사</a></td>
+    <td class="tg-0lax"><a href="/pdf/2023 test/2023 청수 고2 1차고사.pdf">2023 청수 고2 1차고사</a></td>
+    <td class="tg-0lax"><a href="/pdf/2023 test/%5B풀이%5D 2023 청수 고2 1차고사.pdf">[풀이] 2023 청수 고2 1차고사</a></td>
   </tr>
   </table>
+# 수업 내용 정리
 
 [[수학1 교과서 정리]]  &nbsp;&nbsp;&nbsp;&nbsp; [[수학1 판서 정리]]
 
