@@ -1,5 +1,6 @@
 ---
 title: Consistency is key
+feed: hide
 ---
 
 Show up. Do the work. Be consistent.
