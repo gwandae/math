@@ -1,3 +1,14 @@
+템플릿
+
+<table border="1">
+<th>문제</th> <th>풀이</th> 
+  <tr>
+    <td class="tg-0lax"><a href="/pdf/.pdf"></a></td>
+    <td class="tg-0lax"><a href="/pdf/%5B풀이%5D3.%5B풀이%5D.pdf"></a></td>
+  </tr>
+</table>
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
 
 # Digital garden Jekyll template
