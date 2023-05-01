@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-*2023년 5월 1일 notion에서 이전 완료*
+*2023년 5월 1일 notion에서 이전 완료, 타학교 기출페이지 업로드*
 
 *2023년 4월 30일 기출 시험지 업로드 및 수업내용 pdf 표로 구성*
 
