@@ -12,7 +12,7 @@ permalink: /
     <td class="tg-0lax"><a href="/pdf/2023 test/%5B풀이%5D%202023%20청수%20고2%201차고사.pdf">[풀이] 2023 청수 고2 1차고사</a></td>
   </tr>
   </table>
-  [[고2 2차고사 대비 기출 모음]]
+  [고2 2차고사 대비 기출 모음](https://cheonantest.netlify.app/2-2)
   
  <a href="/pdf/수행평가 평가기준.pdf">수행평가 평가기준</a>
 # 수업 내용 정리
