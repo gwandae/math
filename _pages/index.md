@@ -14,6 +14,8 @@ permalink: /
   </table>
   [고2 2차고사 대비 기출 모음](https://cheonantest.netlify.app/2-2)
   
+  <a href="/pdf/주제탐구보고서.pdf">주제탐구보고서 평가내</a>
+  
  <a href="/pdf/수행평가 평가기준.pdf">수행평가 평가기준</a>
 # 수업 내용 정리
 
