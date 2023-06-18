@@ -12,7 +12,7 @@ permalink: /
     <td class="tg-0lax"><a href="/pdf/2023 test/%5B풀이%5D%202023%20청수%20고2%201차고사.pdf">[풀이] 2023 청수 고2 1차고사</a></td>
   </tr>
   </table>
-  [2022 $\Phi\Psi$ 고2 시험 연습](https://mathpractice.netlify.app/test2)
+  [2023 대비 고2 시험 연습](https://mathpractice.netlify.app/test2)
 
   [고2 2차고사 대비 기출 모음](https://cheonantest.netlify.app/2-2)
   
