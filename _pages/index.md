@@ -6,10 +6,10 @@ permalink: /
 ---
 ## 시험 문제 다시보기
 <table border="1">
-<th>문제</th> <th>풀이</th> 
+<th>1차고사</th> <th>2차고사</th> 
   <tr>
-    <td class="tg-0lax"><a href="/pdf/2023 test/2023 청수 고2 1차고사.pdf">2023 청수 고2 1차고사</a></td>
     <td class="tg-0lax"><a href="/pdf/2023 test/%5B풀이%5D%202023%20청수%20고2%201차고사.pdf">[풀이] 2023 청수 고2 1차고사</a></td>
+    <td class="tg-0lax"><a href="/pdf/2023 test/%5B풀이%5D%202023 청수 고2 1차고사.pdf">[풀이] 2023 청수 고2 2차고사</a></td>
   </tr>
   </table>
   [2023 대비 고2 시험 연습](https://mathpractice.netlify.app/test2)
