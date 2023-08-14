@@ -4,7 +4,12 @@ title: Home
 id: home
 permalink: /
 ---
-## 시험 문제 다시보기
+# 수학2
+[[수학2 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[수학2 실전문제 정리]]
+
+***
+# 수학1
+### 시험 문제 다시보기
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
@@ -14,7 +19,7 @@ permalink: /
   </table>
   
  <a href="/pdf/수행평가 평가기준.pdf">수행평가 평가기준</a>
-# 수업 내용 정리
+### 수업 내용 정리
 
 [[수학1 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[수학1 판서 정리]]
 
