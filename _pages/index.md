@@ -17,17 +17,12 @@ permalink: /
     <td class="tg-0lax"><a href="/pdf/2023 test/[풀이] 2023 청수 고2 2차고사.pdf">[풀이] 2023 청수 고2 2차고사</a></td>
   </tr>
   </table>
-  
- <a href="/pdf/수행평가 평가기준.pdf">수행평가 평가기준</a>
+
 ### 수업 내용 정리
 
 [[수학1 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[수학1 판서 정리]]
 
 [[수업 중 질문 답변]] &nbsp;&nbsp;&nbsp;&nbsp;[[수학1 중단원 대단원 판서]]
-
-[실전 문제를 연습하고 싶다 → 유형 문제 연습](https://gwandae.notion.site/1-dd45063073674fdf812d8bb06fe92360)
-
-[[이전 단원 기초가 부족하다 → 개념 문제 연습]]
 
 
 <strong>최근 업데이트된 노트</strong>
