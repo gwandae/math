@@ -14,8 +14,6 @@ permalink: /
     <td class="tg-0lax">예정</td>
   </tr>
   </table>
-|[[2023 청수 고2 3차고사]]|예정|
-|---|---|
 
 
 [[수학2 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[수학2 실전문제 정리]]
