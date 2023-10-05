@@ -7,7 +7,13 @@ permalink: /
 # 수학2
 ### 시험 문제 다시보기
 
-
+<table border="1">
+<th>3차고사</th> <th>4차고사</th> 
+  <tr>
+    <td class="tg-0 lax"><a href="/cs3">[풀이] 2023 청수 고2 3차고사</a></td>
+    <td class="tg-0lax">예정</td>
+  </tr>
+  </table>
 |[[2023 청수 고2 3차고사]]|예정|
 |---|---|
 
