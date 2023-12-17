@@ -11,7 +11,7 @@ permalink: /
 <th>3차고사</th> <th>4차고사</th> 
   <tr>
     <td class="tg-0 lax"><a href="/pdf/2023%20test/%5B풀이%5D%202023%20청수%20고2%203차고사.pdf">[풀이] 2023 청수 고2 3차고사</a></td>
-    <td class="tg-0lax">예정</td>
+    <td class="tg-0 lax"><a href="https://mathpractice.netlify.app/cs4">[풀이] 2023 청수 고2 4차고사</a></td>
   </tr>
   </table>
 
