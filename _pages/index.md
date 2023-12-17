@@ -4,6 +4,11 @@ title: Home
 id: home
 permalink: /
 ---
+# 선택과목 미리보기
+[[확률과 통계 미리보기]]&nbsp;&nbsp;&nbsp;&nbsp;[[미적분 미리보기]]
+<a href="https://cheonantest.netlify.app/" target="_self">천안 고등 기출 정리</a>
+
+***
 # 수학2
 ### 시험 문제 다시보기
 
@@ -11,7 +16,7 @@ permalink: /
 <th>3차고사</th> <th>4차고사</th> 
   <tr>
     <td class="tg-0 lax"><a href="/pdf/2023%20test/%5B풀이%5D%202023%20청수%20고2%203차고사.pdf">[풀이] 2023 청수 고2 3차고사</a></td>
-    <td class="tg-0 lax"><a href="https://mathpractice.netlify.app/cs4">[풀이] 2023 청수 고2 4차고사</a></td>
+    <td class="tg-0 lax"><a href="https://mathpractice.netlify.app/cs4" target="_self">[풀이] 2023 청수 고2 4차고사</a></td>
   </tr>
   </table>
 
