@@ -4,6 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
+
 # 선택과목 미리보기
 [[확률과 통계 미리보기]]&nbsp;&nbsp;&nbsp;&nbsp;[[미적분 미리보기]]
 <a href="https://cheonantest.netlify.app/" target="_self">천안 고등 기출 정리</a>
