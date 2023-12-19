@@ -10,6 +10,8 @@ permalink: /
 
 <a href="https://cheonantest.netlify.app/" target="_self">천안 고등 기출 정리</a>
 
+[[23년 12월 모고]]
+
 ***
 # 수학2
 ### 시험 문제 다시보기
