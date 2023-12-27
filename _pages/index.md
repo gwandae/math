@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-<a href="https://cheonantest.netlify.app/" target="_self">천안 고등 기출 정리</a>
+<a href="https://cheonantest.netlify.app/" target="_self">천안 고등 기출 정리</a>  <a href="https://www.youtube.com/channel/UCkvgc8fqKkBkfnu30DQiXIQ" target="_self">유튜브 채널</a> 
 
 ***
 # 수학2
