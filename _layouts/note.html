@@ -13,7 +13,6 @@ layout: default
 
   <div id="notes-entry-container">
     <content>
-      {% include toc.html html=content %}
       {{ content }}
       <p>Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} by Han Hee Lee</p>
     </content>
