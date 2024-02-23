@@ -40,10 +40,16 @@ defaults:
       path: "**/*"
     values:
       layout: "default"
+      comments: true
   - scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "mathpractice"
 
 # Conversion
 markdown: kramdown
