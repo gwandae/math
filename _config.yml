@@ -49,7 +49,7 @@ defaults:
     values:
       layout: "list"
   - scope:
-      path: "list/**/*.md"
+      path: "qanote/**/*.md"
     values:
       layout: "qanote"
       comments: true
