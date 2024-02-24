@@ -45,11 +45,11 @@ defaults:
     values:
       layout: "note"
   - scope:
-      path: "list/**/*.md"
+      path: "_notes/list/**/*.md"
     values:
       layout: "list"
   - scope:
-      path: "qanote/**/*.md"
+      path: "_notes/qanote/**/*.md"
     values:
       layout: "qanote"
       comments: true
