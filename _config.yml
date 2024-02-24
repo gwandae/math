@@ -40,7 +40,6 @@ defaults:
       path: "**/*"
     values:
       layout: "default"
-      comments: true
   - scope:
       path: "_notes/**/*.md"
     values:
@@ -54,6 +53,7 @@ defaults:
       path: "list/**/*.md"
     values:
       layout: "qanote"
+      comments: true
 
 comments:
   provider: "disqus"
