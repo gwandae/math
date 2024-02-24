@@ -43,8 +43,7 @@ defaults:
   - scope:
       path: "_notes/**/*.md"
     values:
-      layout: "note"	
-      comments: true
+      layout: "note"
   - scope:
       path: "list/**/*.md"
     values:
