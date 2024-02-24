@@ -50,6 +50,10 @@ defaults:
       path: "list/**/*.md"
     values:
       layout: "list"
+  - scope:
+      path: "list/**/*.md"
+    values:
+      layout: "qanote"
 
 comments:
   provider: "disqus"
