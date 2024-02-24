@@ -6,6 +6,7 @@ comments: true
 <article>
   <div>
     <h1>{{ page.title }}</h1>
+    <h3>질문은 아래 댓글에 남겨주세요~</h3>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
@@ -14,7 +15,6 @@ comments: true
 
   <div id="notes-entry-container">
     <content>
-    <h1>질문은 아래 댓글에 남겨주세요~</h1>
       {{ content }}
       <p>Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} by Han Hee Lee</p>
     </content>
