@@ -4,5 +4,6 @@
 	2. typing transformer 복사
 3. ppt
 	1. iguanaTex 설치 및 기본 세팅 복사
-	2. tex Live 설치
-	3. 
+	2. texlive 설치
+4. 날개셋 설치
+	1. 단축어 최신 추가(확률)
