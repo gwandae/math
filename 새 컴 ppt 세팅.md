@@ -1,4 +1,5 @@
 1. 계정 이름 영어로(texlive)
+5. dropbox 설치
 2. 옵시디언
 	1. 깃헙 싱크
 	2. typing transformer 복사
