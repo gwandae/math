@@ -7,12 +7,12 @@ permalink: /
 
 # 확률과 통계
 
-[[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[확통 실전문제 정리]]
+[[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[확통 중단원 대단원]]
 
 ---
 # 기하와 벡터
 
-[[기하 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[기하 실전문제 정리]]
+[[기하 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[기하 중단원 대단원]]
 
 ---
 
