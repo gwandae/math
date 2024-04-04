@@ -9,7 +9,7 @@ permalink: /
 
 [[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[확통 프린트 정리]] 
 
-[[확통 중단원 대단원]]
+[[확통 중단원 대단원 부교재]] &nbsp;&nbsp;&nbsp;&nbsp; 
 
 ---
 # 기하와 벡터
