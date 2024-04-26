@@ -7,6 +7,18 @@ permalink: /
 
 # 확률과 통계
 
+### 시험 문제 다시보기
+
+<table border="1">
+<th>1차고사</th> <th>2차고사</th> 
+  <tr>
+	<td class="tg-0 lax"><a href="">제작중</a></td>
+    <td class="tg-0 lax"><a href="">제작중</a></td>
+  </tr>
+  </table>
+  
+### 수업 내용 정리
+
 [[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[확통 프린트 정리]] 
 
 [[확통 부교재 답 및 오타교정]] &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -14,9 +26,23 @@ permalink: /
 ---
 # 기하와 벡터
 
+### 시험 문제 다시보기
+
+<table border="1">
+<th>1차고사</th> <th>2차고사</th> 
+  <tr>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg1" target="_self">[풀이] 2023 청수 기하 1차고사</a></td>
+    <td class="tg-0 lax"><a href="">제작중</a></td>
+  </tr>
+  </table>
+  
+### 수업 내용 정리
+
 [[기하 수행평가 공지]]
 
 [[기하 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[기하 프린트 정리]] 
+
+
 
 ---
 
