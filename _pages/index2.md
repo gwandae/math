@@ -6,7 +6,6 @@ permalink: /2
 
 ***
 # 수학2
-### 시험 문제 다시보기
 
 <table border="1">
 <th>3차고사</th> <th>4차고사</th> 
@@ -21,7 +20,7 @@ permalink: /2
 
 ***
 # 수학1
-### 시험 문제 다시보기
+
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
@@ -30,7 +29,6 @@ permalink: /2
   </tr>
   </table>
 
-### 수업 내용 정리
 
 [[수학1 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp;[[수학1 판서 정리]]
 

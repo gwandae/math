@@ -7,7 +7,6 @@ permalink: /
 
 # 확률과 통계
 
-### 시험 문제 다시보기
 
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
@@ -16,7 +15,6 @@ permalink: /
   </tr>
   </table>
   
-### 수업 내용 정리
 
 [[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[확통 프린트 정리]] 
 
@@ -25,7 +23,6 @@ permalink: /
 ---
 # 기하와 벡터
 
-### 시험 문제 다시보기
 
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
@@ -34,7 +31,6 @@ permalink: /
   </tr>
   </table>
   
-### 수업 내용 정리
 
 [[기하 수행평가 공지]]
 
