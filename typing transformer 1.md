@@ -19,6 +19,8 @@
 '（（|）' -> '(|)'
 '（|'     -> '（|）'
 '（|）'   -x '|'
+'$|' -> '$|$'
+'$|$$'   -x '$|'
 
 # Auto code block
 '··|'  -> '`|`' # inline block
@@ -53,6 +55,7 @@
 'cc|' -> '\cancel|'
 'ct|' -> '\cancelto{|}{'
 'ov|' -> '\overline{|'
+'or|' -> '\vec{|'
 '\1|' -> '***문제|.***\n\n\n\n$\quad ①\, \n\quad ②\, \n\quad ③\, \n\quad ④\, \n\quad ⑤\, \n$ \n<details> \n  <summary>상세한 풀이</summary> \n   <p><img src="/assets/.png"/></p>\n </details>\n\n\n' 
 '\im|' -> '<img src="/assets/|"/>'
 '\dx|' -> '\dfrac{d}{dx}|'
@@ -68,12 +71,12 @@
 'cn|' -> '{_n}C{_n}|'
 'tt|' -> '\text{|'
 'qq|' -> '\qquad |'
-'$|' -> '$|$'
 'lg|'-> '\log |'
 '@a|'-> '\alpha|'
 '@b|' -> '\beta|'
 '@t|' -> '\theta|'
 'sq|' -> '\sqrt|'
+
 
 # Selection Insert Rules
 '·'  -> '`' + '`'
