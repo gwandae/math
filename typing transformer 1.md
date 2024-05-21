@@ -1,3 +1,5 @@
+'\1|' -> '**(문제|.)**\n\n\n\n **<span style="color: red;">$\qquad$답: $$</span>** \n\n\n' 
+
 
 # Line head conversion
 # Note: this rule can't apply to the very first line of the document
