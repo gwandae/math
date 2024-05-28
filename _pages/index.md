@@ -7,6 +7,7 @@ permalink: /
 
 # 확률과 통계
 
+[[통계자료분석 수행평가 안내]]
 
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
