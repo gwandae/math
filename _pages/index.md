@@ -7,12 +7,12 @@ permalink: /
 
 # 확률과 통계
 
-<a href="https://mathpractice.netlify.app/csp1" target="_self">통계자료분석 수행평가 안</a>
+<a href="https://share.note.sx/iac0kb2l#a8zydRKqr6q3l80VrlXoLLfweb0+5CNgpYIKe77qV0k" target="_self">통계자료분석 수행평가 안내</a>
 
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
-	<td class="tg-0 lax"><a href="https://share.note.sx/iac0kb2l#a8zydRKqr6q3l80VrlXoLLfweb0+5CNgpYIKe77qV0k" target="_self">[풀이] 2023 청수 확통 1차고사</a></td>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp1" target="_self">[풀이] 2023 청수 확통 1차고사</a></td>
   </tr>
   </table>
   
