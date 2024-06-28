@@ -14,6 +14,9 @@ permalink: /
   <tr>
 	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp1" target="_self">[풀이] 2023 청수 확통 1차고사</a></td>
   </tr>
+   <tr>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp2" target="_self">[풀이] 2023 청수 확통 2차고사</a></td>
+  </tr>
   </table>
   
 
