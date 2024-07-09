@@ -13,7 +13,6 @@ permalink: /
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
 	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp1" target="_self">[풀이] 2023 청수 확통 1차고사</a></td>
-	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg2" target="_self">[풀이] 2023 청수 확통 2차고사</a></td>
   </tr>
   </table>
   
@@ -30,6 +29,7 @@ permalink: /
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
 	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg1" target="_self">[풀이] 2023 청수 기하 1차고사</a></td>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg2" target="_self">[풀이] 2023 청수 기하 2차고사</a></td>
   </tr>
   </table>
   
