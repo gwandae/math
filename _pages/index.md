@@ -5,9 +5,19 @@ id: home
 permalink: /
 ---
 
-# 확률과 통계
+# 확률과 통계(2학기)
 
-<a href="https://share.note.sx/iac0kb2l#a8zydRKqr6q3l80VrlXoLLfweb0+5CNgpYIKe77qV0k" target="_self">통계자료분석 수행평가 안내</a>
+[[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[확통 프린트 정리(2학기)]]
+
+[[확통 부교재 답 및 오타교정]] &nbsp;&nbsp;&nbsp;&nbsp; 
+
+---
+# 기하와 벡터(2학기)
+
+[[기하 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[기하 프린트 정리(2학기)]]
+
+---
+# 확률과 통계(1학기)
 
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
@@ -22,7 +32,7 @@ permalink: /
 [[확통 부교재 답 및 오타교정]] &nbsp;&nbsp;&nbsp;&nbsp; 
 
 ---
-# 기하와 벡터
+# 기하와 벡터(1학기)
 
 
 <table border="1">
@@ -32,9 +42,6 @@ permalink: /
 	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg2" target="_self">[풀이] 2023 청수 기하 2차고사</a></td>
   </tr>
   </table>
-  
-
-[[기하 수행평가 공지]]
 
 [[기하 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[기하 프린트 정리]] 
 
