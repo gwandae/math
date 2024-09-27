@@ -1,0 +1,11 @@
+{
+  "creatorIdentifier" : "mobi.dudek.deckset",
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "com.unsignedinteger.deckset" : {
+    "presentationIdentifier" : "C5DF825F-8A85-4BF9-B680-115A56BB0545",
+    "themeVariant" : "scheme1",
+    "themeIdentifier" : "warsaw"
+  },
+  "version" : 2
+}
