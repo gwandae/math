@@ -14,6 +14,14 @@ permalink: /
 ---
 # 기하와 벡터(2학기)
 
+<table border="1">
+<th>3차고사</th> <th>4차고사</th> 
+  <tr>
+    <td class="tg-0 lax"><a href="/pdf/2024%20test/%5B풀이%5D%202023%20청수%20기하%203차고사. pdf">[풀이] 2024 청수 기하 3차고사</a></td>
+    <td class="tg-0 lax"><a href="" target="_self">기말 후 공개</a></td>
+  </tr>
+  </table>
+
 [[기하 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[기하 프린트 정리(2학기)]]
 
 [[기하 수행평가 공지]]
@@ -24,7 +32,7 @@ permalink: /
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
-	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp1" target="_self">[풀이] 2023 청수 확통 1차고사</a></td>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp1" target="_self">[풀이] 2024 청수 확통 1차고사</a></td>
   </tr>
   </table>
   
@@ -40,8 +48,8 @@ permalink: /
 <table border="1">
 <th>1차고사</th> <th>2차고사</th> 
   <tr>
-	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg1" target="_self">[풀이] 2023 청수 기하 1차고사</a></td>
-	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg2" target="_self">[풀이] 2023 청수 기하 2차고사</a></td>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg1" target="_self">[풀이] 2024 청수 기하 1차고사</a></td>
+	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg2" target="_self">[풀이] 2024 청수 기하 2차고사</a></td>
   </tr>
   </table>
 
