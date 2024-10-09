@@ -8,10 +8,10 @@ permalink: /
 # 확률과 통계(2학기)
 
 <table border="1">
-<th>3차고사</th> <th>4차고사</th> 
+<th>3차고사</th> 
   <tr>
     <td class="tg-0 lax"><a href="/pdf/2024%20test/%5B풀이%5D%202024%20청수%20확통%203차고사.pdf">[풀이] 2024 청수 확통 3차고사</a></td>
-    <td class="tg-0 lax"><a href="" target="_self">기말 후 공개</a></td>
+    
   </tr>
   </table>
 
