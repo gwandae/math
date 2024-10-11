@@ -7,6 +7,14 @@ permalink: /
 
 # 확률과 통계(2학기)
 
+<table border="1">
+<th>3차고사</th> 
+  <tr>
+    <td class="tg-0 lax"><a href="/pdf/2024%20test/%5B풀이%5D%202024%20청수%20확통%203차고사.pdf">[풀이] 2024 청수 확통 3차고사</a></td>
+    
+  </tr>
+  </table>
+
 [[확통 교과서 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[확통 프린트 정리(2학기)]]
 
 [[확통 부교재 답 및 오타교정]]
