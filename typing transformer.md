@@ -1,4 +1,3 @@
-
 # Line head conversion
 # Note: this rule can't apply to the very first line of the document
 '\n》|' -> '\n>|'
@@ -19,20 +18,20 @@
 '（（|）' -> '(|)'
 '（|'     -> '（|）'
 '（|）'   -x '|'
-'{|' -> '{|}'
 '$|' -> '$|$'
 '$|$$'   -x '$|'
-'$|$'   -x '|'
-'a|}{' -x 'a|'
+']|]' -> ']|'
 ']]|'   -x '|'
 '![[|'   -x '|'
-
 
 # Auto code block
 '··|'  -> '`|`' # inline block
 '`·|`' -> '```|\n```'
 
 # have fun converting!
+'!1|' -> '![right](|)'
+'!2|' -> '![left](|)'
+'!!|' -> '![](|)'
 'dpx|' -> 'don\'t panic|'
 'df|' -> '\dfrac{|'
 'lim|' -> '\displaystyle\lim_{|'
@@ -44,7 +43,7 @@
 '\bb|' -> '$\begin{align*}\n|\n\end{align*}$'
 '&*|' -> '\\&=|'
 '\#|' -> '#### |'
-'bc|' -> '\begin{cases}|\end{cases}'
+'\bc|' -> '\begin{cases}|\end{cases}$'
 'iii)|' -> '\text{iii) }|'
 'ii)|' -> '\text{ii) }|'
 'i)|' -> '\text{i) }|'
@@ -61,20 +60,21 @@
 'cc|' -> '\cancel|'
 'ct|' -> '\cancelto{|}{'
 'ov|' -> '\overline{|}'
-'ve|' -> '\vec{|}'
-'\1|' -> '**(문제|.)**\n\n\n\n **<span style="color: red;">$\qquad$답: $$</span>** \n\n\n' 
+'or|' -> '\vec{|}'
+'\1|' -> '***문제|.***\n\n\n\n$\quad ①\, \n\quad ②\, \n\quad ③\, \n\quad ④\, \n\quad ⑤\, \n$ \n<details> \n  <summary>상세한 풀이</summary> \n   <p><img src="/assets/.png"/></p>\n </details>\n\n\n' 
 '\im|' -> '<img src="/assets/|"/>'
 '\dx|' -> '\dfrac{d}{dx}|'
 '\2|' -> '***단답형|.***\n\n\n\n<details> \n  <summary>상세한 풀이</summary> \n   <p><img src="/assets/.png"/></p>\n</details>\n\n\n'
 '\3|' -> '***서술형|.***\n\n\n\n<details> \n  <summary>상세한 풀이</summary> \n   <p><img src="/assets/.png"/></p>\n</details>\n\n\n'
-'oa|' -> '\overset{\mmlToken{mo}{⏜}}{\rm |'
+'oa|' -> '\overset{\mmlToken{mo}{⏜}}{\rm |}'
 '\4|' -> '<details>\n<summary>풀이</summary>\n\n|\n</details>'
 'pt|' -> '\phantom{|}'
 'c0|' -> '{_n}C{_0}|'
 'c1|' -> '{_n}C{_1}|'
 'c2|' -> '{_n}C{_2}|'
+'cr|' -> '{_n}C{_r}|'
 'cn|' -> '{_n}C{_n}|'
-'tt|' -> '\text{|}'
+'tt|' -> '\text{|'
 'qq|' -> '\qquad |'
 'lg|'-> '\log |'
 '@a|'-> '\alpha|'
