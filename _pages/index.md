@@ -25,13 +25,8 @@ permalink: /
 <th>1차고사</th> <th>2차고사</th>  <th>3차고사</th>
   <tr>
 	<td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp1" target="_self">[풀이] 2024 청수 확통 1차고사</a></td>
-  </tr>
-  <tr>
-	<td class="tg-0 lax"><a href=>시험 후 공개</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0 lax"><a href="/pdf/2024%20test/%5B풀이%5D%202024%20청수%20확통%203차고사.pdf">[풀이] 2024 청수 확통 3차고사</a></td>
-    
+	<td class="tg-0 lax"><a href="">시험 후 공개</a></td>
+	<td class="tg-0 lax"><a href="/pdf/2024%20test/%5B풀이%5D%202024%20청수%20확통%203차고사.pdf">[풀이] 2024 청수 확통 3차고사</a></td>
   </tr>
   </table>
   
