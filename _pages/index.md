@@ -12,7 +12,7 @@ permalink: /
 <th>3차고사</th> <th>4차고사</th> 
   <tr>
     <td class="tg-0 lax"><a href="/pdf/2024%20test/%5B풀이%5D%202024%20청수%20기하%203차고사.pdf">[풀이] 2024 청수 기하 3차고사</a></td>
-    <td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csp4" target="_self">[풀이] 2024 청수 기하 4차고사</a></td>
+    <td class="tg-0 lax"><a href="https://mathpractice.netlify.app/csg4" target="_self">[풀이] 2024 청수 기하 4차고사</a></td>
   </tr>
   </table>
 
