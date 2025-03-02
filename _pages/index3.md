@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Home
-id: home
 permalink: /3
 ---
 <a href="https://www.youtube.com/channel/UCkvgc8fqKkBkfnu30DQiXIQ" target="_self">유튜브 채널</a> 
