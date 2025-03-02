@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Home
+id: home
 permalink: /
 ---
-
-<a href="https://www.youtube.com/channel/UCkvgc8fqKkBkfnu30DQiXIQ" target="_self">유튜브 채널</a> 
 
 # 공통수학1
 
