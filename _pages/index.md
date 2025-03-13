@@ -5,6 +5,9 @@ id: home
 permalink: /
 ---
 
+[[타과목 수행평가 정리]]
+
+
 # 공통수학1
 
 [[수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[중단원 대단원 풀이]]

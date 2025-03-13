@@ -4,6 +4,9 @@ permalink: /2
 ---
 
 ***
+
+
+
 # 수학2
 
 <table border="1">
