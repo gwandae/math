@@ -14,6 +14,8 @@ permalink: /
 
 [[학습자료 정리]]
 
+[2025 청수고 공통수학 1|4반부터 7반까지 진도 정리 링크](https://skitter-windscreen-bb9.notion.site/2025-1-1accef6dbe5480cc9d73d26d57d25a4e)
+
 ---
 
 [[index3|2024 청수 기하, 확통 수업 정리]]
