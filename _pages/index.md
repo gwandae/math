@@ -7,7 +7,9 @@ permalink: /
 
 # 공통수학2
 
-[[_notes/list/2학기/수업 ppt 정리|수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[스확 대단원 풀이]]
+[[2학기 수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[스확 대단원 풀이]]
+
+
 
 ---
 
@@ -15,7 +17,7 @@ permalink: /
 
 [[최소성취 대비 수업]]
 
-[[_notes/list/수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[중단원 대단원 풀이]]
+[[수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[중단원 대단원 풀이]]
 
 [[학습자료 정리]]
 
