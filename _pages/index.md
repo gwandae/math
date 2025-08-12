@@ -5,21 +5,27 @@ id: home
 permalink: /
 ---
 
-[[2025 청수 고1 1차고사 풀이]]  &nbsp;&nbsp;&nbsp;&nbsp; [[2025 청수 고1 2차고사 풀이]]
+# 공통수학2
 
-<a href="/pdf/2025/수학적 탐구 프로젝트(양식-공지용).pdf">수학적 탐구 프로젝트 양식</a>
+[[_notes/list/2학기/수업 ppt 정리|수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[스확 대단원 풀이]]
 
-<a href="/pdf/2025/공통수학1 탐구 프로젝트 자료집.pdf">공통수학1 탐구 프로젝트 자료집</a>
+---
 
 # 공통수학1
 
 [[최소성취 대비 수업]]
 
-[[수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[중단원 대단원 풀이]]
+[[_notes/list/수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[중단원 대단원 풀이]]
 
 [[학습자료 정리]]
 
 <a href ="https://skitter-windscreen-bb9.notion.site/2025-1-1accef6dbe5480cc9d73d26d57d25a4e">4반부터 7반까지 진도 정리 링크</a>
+
+[[2025 청수 고1 1차고사 풀이]]  &nbsp;&nbsp;&nbsp;&nbsp; [[2025 청수 고1 2차고사 풀이]]
+
+<a href="/pdf/2025/수학적 탐구 프로젝트(양식-공지용).pdf">수학적 탐구 프로젝트 양식</a>
+
+<a href="/pdf/2025/공통수학1 탐구 프로젝트 자료집.pdf">공통수학1 탐구 프로젝트 자료집</a>
 
 ---
 
