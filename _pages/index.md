@@ -9,8 +9,6 @@ permalink: /
 
 [[2학기 수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[스확 대단원 풀이]]
 
-
-
 ---
 
 # 공통수학1
