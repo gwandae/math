@@ -1,4 +1,7 @@
 
+<a href="https://www.youtube.com/playlist?list=PLZbiDKYSrfMAQX4CsuOI1cudbyMpheSH-">수업 영상 유튜브 링크</a>
+
+
 [[1. 선분의 내분]]
 
 
