@@ -7,6 +7,8 @@ permalink: /
 
 # 공통수학2
 
+[[최성보 예비지도(점심 저녁 잠깐 수학)]]
+
 [[2학기 수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[스확 대단원 정리]]
 
 [[질문 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[도전 문제]]
