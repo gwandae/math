@@ -13,6 +13,12 @@ permalink: /
 
 <a href ="https://skitter-windscreen-bb9.notion.site/2025-1-1accef6dbe5480cc9d73d26d57d25a4e">변영은 선생님 수업자료 링크</a>
 
+
+[[2025 청수 고1 3차고사 풀이]]  &nbsp;&nbsp;&nbsp;&nbsp; 
+
+
+
+
 ---
 
 # 공통수학1
