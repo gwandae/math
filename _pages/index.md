@@ -5,39 +5,18 @@ id: home
 permalink: /
 ---
 
-# 공통수학2
+# 온양여고 공통수학 1 정리
 
-[[최성보 예비지도(점심 저녁 잠깐 수학)]]
-
-[[2학기 수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[스확 대단원 정리]]
-
-<a href ="https://skitter-windscreen-bb9.notion.site/2025-1-1accef6dbe5480cc9d73d26d57d25a4e">변영은 선생님 수업자료 링크</a>
-
-
-[[2025 청수 고1 3차고사 풀이]]  &nbsp;&nbsp;&nbsp;&nbsp; 
-
+[[10. 고차방정식 모고]]
 
 
 
 ---
 
-# 공통수학1
-
-[[최소성취 대비 수업]]
-
-[[수업 ppt 정리]] &nbsp;&nbsp;&nbsp;&nbsp; [[중단원 대단원 풀이]]
-
-[[학습자료 정리]]
-
-<a href ="https://skitter-windscreen-bb9.notion.site/2025-1-1accef6dbe5480cc9d73d26d57d25a4e">4반부터 7반까지 진도 정리 링크</a>
-
-[[2025 청수 고1 1차고사 풀이]]  &nbsp;&nbsp;&nbsp;&nbsp; [[2025 청수 고1 2차고사 풀이]]
-
-<a href="/pdf/2025/수학적 탐구 프로젝트(양식-공지용).pdf">수학적 탐구 프로젝트 양식</a>
-
-<a href="/pdf/2025/공통수학1 탐구 프로젝트 자료집.pdf">공통수학1 탐구 프로젝트 자료집</a>
-
 ---
+
+
+[[index4|2025 청수 고1 수업 정리]]
 
 [[index3|2024 청수 기하, 확통 수업 정리]]
 
